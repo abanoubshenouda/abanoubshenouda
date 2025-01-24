@@ -80,8 +80,8 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
-  <a href="https://www.sql.org" target="_blank">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2314354C.svg?style=plastic&logo=sql&logoColor=white">
   </a>
 </p>
 
