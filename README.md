@@ -80,6 +80,9 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+  <a href="https://www.sql.org" target="_blank">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
