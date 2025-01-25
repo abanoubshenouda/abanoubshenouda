@@ -1,6 +1,19 @@
-<h1 align="center"><img src="https://iili.io/HG9Lsi7.gif" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+<h1 align="center">Hi , I'm Abanoub Shenouda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=7abanoubshenouda&label=Profile%20views&color=0047AB&style=plastic?" alt="abanoubshenouda" height=25px, width=160px/> 
+	<!---
+		<a href = "https://commits.top/egypt.html" target="_blank">
+			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+		</a>
+	-->
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="abanoubshenouda" target="_blank" height=25px, width=250px/> 
+	</a>
+
+</p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Software+Development+Engineer+%40noon;R%26D+Engineer+%40Coademy;3x+ACPC+Finalist;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Software+Development+Engineer;R%26D+Engineer+%40Coademy;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
 </p>
 
 
