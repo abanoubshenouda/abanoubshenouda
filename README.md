@@ -107,9 +107,9 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Data Structures" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Algorithms" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="OOP" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-0078d7.svg?style=plastic&logo=data-structures&logoColor=white"></a>
+    <a href="#"><img alt="Algorithms" src="https://img.shields.io/badge/Algorithm%20-0078d7.svg?style=plastic&logo=algorithm&logoColor=white"></a>
+    <a href="#"><img alt="OOP" src="https://img.shields.io/badge/Object%20Orianted%20Programming-0078d7.svg?style=plastic&logo=object-orianted-programming&logoColor=white"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
