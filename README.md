@@ -107,7 +107,7 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-0078d7.svg?style=plastic&logo=data-structures&logoColor=white"></a>
+    <a href="#"><img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-%230F9D58.svg?style=plastic&logo=data-structures&logoColor=white"></a>
     <a href="#"><img alt="Algorithms" src="https://img.shields.io/badge/Algorithm%20-0078d7.svg?style=plastic&logo=algorithm&logoColor=white"></a>
     <a href="#"><img alt="OOP" src="https://img.shields.io/badge/Object%20Orianted%20Programming-0078d7.svg?style=plastic&logo=object-orianted-programming&logoColor=white"></a>
 </p>
